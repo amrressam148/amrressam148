@@ -50,12 +50,8 @@ I specialize in bridging the gap between **Technical AI** (LLMs, RAG, Computer V
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrressam148&show_icons=true&theme=radical" alt="Amr's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrressam148&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrressam148&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrressam148&layout=compact&theme=radical)
 ---
 <p align="center">Let's build something amazing together! 🚀</p>
