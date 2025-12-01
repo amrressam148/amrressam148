@@ -47,11 +47,18 @@ I specialize in bridging the gap between **Technical AI** (LLMs, RAG, Computer V
 </p>
 
 ---
+### ⚡ What I'm currently up to
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=AI+Master's+Student+@+BTU+🎓;Building+Local+RAG+Agents+🤖;Data+Engineering+Specialist+🛠️;Bridging+Tech+%26+Product+💡;Open+to+Working+Student+Roles+🚀" alt="Typing SVG" />
+</p>
 
-![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrressam148&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrressam148&layout=compact&theme=radical)
 ---
-<p align="center">Let's build something amazing together! 🚀</p>
+
+### 🧠 My Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,langchain,postgres,mysql,docker,azure,git,linux,vscode&perline=6" />
+  </a>
+</p>
